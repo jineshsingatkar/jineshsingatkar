@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jinesh Singatkar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software Tester/RPA developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jineshsingatkar&label=Profile%20views&color=0e75b6&style=flat" alt="jineshsingatkar" /> </p>
 
-- 📫 How to reach me **jjinesh1111@gmail.com**
+- 📫 How to reach me **jineshsingatkar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
